@@ -4,7 +4,7 @@
   <img width="180" align='left' src="https://raw.githubusercontent.com/Resaqulyubi/Resaqulyubi/main/me.png?raw=true">
 </p>
  
-I am not a heavy maintainer of any large libraries, i love open source. 👯  if you need to hire a freelancer to handle work which you don’t have the talent for, make sure you hire a good freelancer instead of skimping on the price for the sake of it.
+while I may not be a heavy maintainer of any large libraries, my passion for open source is undeniable. If you're in need of a freelancer to handle work that requires a specific skill set, I'm your person. Remember, quality should never be compromised for the sake of price. You can reach me via Telegram for further discussions.
 
 💌 How to reach me [telegram](https://t.me/resaqulyubi)
 
