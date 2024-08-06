@@ -8,6 +8,12 @@ while I may not be a heavy maintainer of any large libraries, my passion for ope
 
 💌 How to reach me [telegram](https://t.me/resaqulyubi)
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=resaqulyubi&show_icons=true&locale=en&layout=compact" alt="resaqulyubi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=resaqulyubi&show_icons=true&locale=en" alt="resaqulyubi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=resaqulyubi&" alt="celinmartha22" /></p>
 ---
 
 <!--
