@@ -41,6 +41,9 @@ I'm a passionate software developer with expertise in building robust web and mo
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift/SwiftUI" />
 </p>
 
 ## 🏆 Projects
@@ -51,7 +54,8 @@ Here are some projects I'm proud of:
 2. **Mobile App Barcode Scanner Daily Checklist & Report** - A mobile application for streamlined inventory management and reporting
 3. **Mobile App Streaming | Stream Radio Campus Polytechnic FM** - A streaming application for campus radio built for mobile platforms
 4. **Web API Using .NET Core | Pharmacy App Company** - Backend API services built with .NET Core for a pharmacy application
-5. **Flutter Mobile POS | Complete Entrepreneurial Application** - A point-of-sale mobile solution developed with Flutter for entrepreneurs
+5. **[Flutter Mobile POS | Complete Entrepreneurial Application](https://majoo.id/)** - A point-of-sale mobile solution developed with Flutter for entrepreneurs
+6. **[Bil Qolam Gresik Islamic School Website](http://bilqolamgresik.com/)** - A comprehensive educational website for an Islamic school featuring academic programs, student resources, and administrative functions built with Laravel
 
 ## 🌟 My Philosophy
 
@@ -111,6 +115,9 @@ Saya adalah pengembang perangkat lunak yang bersemangat dengan keahlian dalam me
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift/SwiftUI" />
 </p>
 
 ## 🏆 Proyek
@@ -121,7 +128,8 @@ Berikut beberapa proyek yang saya banggakan:
 2. **Mobile App Barcode Scanner Daily Checklist & Report** - Aplikasi mobile untuk manajemen inventaris dan pelaporan yang efisien
 3. **Mobile App Streaming | Stream Radio Campus Polytechnic FM** - Aplikasi streaming untuk radio kampus yang dibangun untuk platform mobile
 4. **Web API Using .NET Core | Pharmacy App Company** - Layanan API backend yang dibangun dengan .NET Core untuk aplikasi farmasi
-5. **Flutter Mobile POS | Complete Entrepreneurial Application** - Solusi point-of-sale mobile yang dikembangkan dengan Flutter untuk para pengusaha
+5. **[Flutter Mobile POS | Complete Entrepreneurial Application](https://majoo.id/)** - Solusi point-of-sale mobile yang dikembangkan dengan Flutter untuk para pengusaha
+6. **[Website Sekolah Islam Bil Qolam Gresik](http://bilqolamgresik.com/)** - Website pendidikan komprehensif untuk sekolah Islam yang menampilkan program akademik, sumber daya siswa, dan fungsi administratif yang dibangun dengan Laravel
 
 ## 🌟 Filosofi Saya
 
